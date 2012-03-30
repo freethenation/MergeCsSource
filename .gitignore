@@ -6,6 +6,7 @@
 *.exe
 *.o
 *.so
+*.pdb
 
 # Packages #
 ############
@@ -38,5 +39,4 @@ Thumbs.db
 #################
 /bin/Debug/*
 /bin/Release/*
-/obj/*
 /obj/*
